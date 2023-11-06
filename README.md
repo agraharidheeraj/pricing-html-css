@@ -12,7 +12,8 @@ This is a simple pricing component created using HTML and CSS. It provides infor
 - [Usage](#usage)
 - [Contributing](#contributing)
 
-## Demo
+## Live Link Here
+
 
 You can see the live demo of this project [here](https://pricing-html-css-two-eta.vercel.app/).
 
